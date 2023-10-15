@@ -240,6 +240,9 @@ elif n_time > '2023-10-10':
             h = 0
         if h != 0:
             pyautogui.click(1204, 947)
+            h = 0
+            tili=tili-40
+    print('zl')
     sleep(3)
     pyautogui.keyDown('alt')
     pyautogui.keyDown('f4')
