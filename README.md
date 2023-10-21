@@ -52,4 +52,6 @@ This software is open source, free of charge and for learning and exchange purpo
 
 5.！！建议搭配上windows定时开机和定时任务使用 并且保证程序第一次运行的时候体力是满的 不然实在想不到能用这个干什么！！
 
+6.将游戏内沿用自动战斗设置打开
+
 QQ:898777578
