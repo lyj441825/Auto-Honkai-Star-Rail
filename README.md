@@ -8,6 +8,9 @@
 # 安装教程
 0.5.关闭任何杀毒软件，否则python安装可能会出问题。
 
+0.75.前往https://digi.bib.uni-mannheim.de/tesseract/下载32/64位的任意版本setup.exe，安装，将安装完的tesseract文件夹名字改成Tesseract
+     并下载tessdata_fast/中所有文件，放到Tesseract/tessdata文件夹里
+
 1.前往python官网python.org现在python3.11.x版本的python，安装时勾选带"PATH"的选项
 
 2.将所有文件放入星穹铁道文件夹Star Rail内
