@@ -54,6 +54,6 @@ This software is open source, free of charge and for learning and exchange purpo
 
 6.将游戏内沿用自动战斗设置打开
 
-7.要刷遗器和花萼，修改fort.pngh或yiqi2.png
+7.要刷遗器和花萼，修改forth.png或yiqi2.png
 
 QQ:898777578
